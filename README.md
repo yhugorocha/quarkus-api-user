@@ -1,4 +1,4 @@
-# Repositorio criado para aprender APIRest em Quarkus
+# Repositório criado para aprender APIRest em Quarkus
 
 ## Requisitos funcionais
 1. Cadastrar/atualizar e deletar um usuário;
